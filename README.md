@@ -29,7 +29,7 @@
 | Step | Task | Action |
 | :--- | :--- | :--- |
 | **01** | **Fork the Repo** | <a href="https://github.com/AbhishekSuresh2/Phoenix-MD-Bot/fork"><img src="https://img.shields.io/badge/FORK_PHOENIX_MD-000000?style=for-the-badge&logo=github&logoColor=F710B1"></a> |
-| **02** | **Link Your Account** | <a href="https://phoenix-md-session-vercel.vercel.app/"><img src="https://img.shields.io/badge/GET_SESSION_ID-000000?style=for-the-badge&logo=render&logoColor=F710B1"></a> |
+| **02** | **Link Your Account** | <a href="https://phoenix-md-session.vercel.app/"><img src="https://img.shields.io/badge/GET_SESSION_ID-000000?style=for-the-badge&logo=render&logoColor=F710B1"></a> |
 | **03** | **External Plugins** | <a href="https://github.com/AbhishekSuresh2/External-Plugins"><img src="https://img.shields.io/badge/EXPLORE_PLUGINS-000000?style=for-the-badge&logo=googlechrome&logoColor=F710B1"></a> |
 
 ---
